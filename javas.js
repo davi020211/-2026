@@ -421,8 +421,6 @@ atualizarPainel();
 
 function mostrarFim(){
 
-function mostrarFim(){
-
 perguntaArea.innerHTML =
 
 "<div class='fim-jogo'>" +
